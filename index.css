@@ -1,0 +1,14 @@
+.footer-links a {
+  color: #fff;      
+  text-decoration: none; 
+}
+
+.footer-links a:hover {
+  color: #ddd;     
+  text-decoration: none;
+}
+
+.footer-links a {
+  font-weight: 400;
+  letter-spacing: 0.3px;
+}
