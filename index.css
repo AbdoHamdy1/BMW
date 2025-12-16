@@ -12,3 +12,8 @@
   font-weight: 400;
   letter-spacing: 0.3px;
 }
+.carousel-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
